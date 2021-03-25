@@ -1,4 +1,4 @@
-# mylist
+# My Needs List
 
 ## Project setup
 ```
